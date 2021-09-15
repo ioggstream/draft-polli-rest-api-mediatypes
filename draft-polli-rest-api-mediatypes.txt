@@ -8,14 +8,14 @@ Intended status: Informational                         15 September 2021
 Expires: 19 March 2022
 
 
-                          REST API mediatypes
+                          REST API Media Types
                  draft-polli-rest-api-mediatypes-latest
 
 Abstract
 
-   This document register the following media-types used in APIs on the
-   IANA MEdia Types registry: text/yaml, application/yaml, application/
-   openapi+json, and application/openapi+yaml
+   This document registers the following media types used in APIs on the
+   IANA Media Types registry: text/yaml, application/yaml, application/
+   openapi+json, and application/openapi+yaml.
 
 Note to Readers
 
@@ -55,7 +55,7 @@ Status of This Memo
 
 Polli                     Expires 19 March 2022                 [Page 1]
 
-Internet-Draft             REST API mediatypes            September 2021
+Internet-Draft            REST API Media Types            September 2021
 
 
 Copyright Notice
@@ -111,7 +111,7 @@ Table of Contents
 
 Polli                     Expires 19 March 2022                 [Page 2]
 
-Internet-Draft             REST API mediatypes            September 2021
+Internet-Draft            REST API Media Types            September 2021
 
 
 1.1.  Notational Conventions
@@ -167,7 +167,7 @@ Internet-Draft             REST API mediatypes            September 2021
 
 Polli                     Expires 19 March 2022                 [Page 3]
 
-Internet-Draft             REST API mediatypes            September 2021
+Internet-Draft            REST API Media Types            September 2021
 
 
 3.1.  application/yaml
@@ -223,7 +223,7 @@ Internet-Draft             REST API mediatypes            September 2021
 
 Polli                     Expires 19 March 2022                 [Page 4]
 
-Internet-Draft             REST API mediatypes            September 2021
+Internet-Draft            REST API Media Types            September 2021
 
 
    Subtype name: yaml
@@ -279,7 +279,7 @@ Internet-Draft             REST API mediatypes            September 2021
 
 Polli                     Expires 19 March 2022                 [Page 5]
 
-Internet-Draft             REST API mediatypes            September 2021
+Internet-Draft            REST API Media Types            September 2021
 
 
    Optional parameters: version; unrecognized parameters should be
@@ -335,7 +335,7 @@ Internet-Draft             REST API mediatypes            September 2021
 
 Polli                     Expires 19 March 2022                 [Page 6]
 
-Internet-Draft             REST API mediatypes            September 2021
+Internet-Draft            REST API Media Types            September 2021
 
 
    Encoding considerations: Same as [JSON]
@@ -391,7 +391,7 @@ Internet-Draft             REST API mediatypes            September 2021
 
 Polli                     Expires 19 March 2022                 [Page 7]
 
-Internet-Draft             REST API mediatypes            September 2021
+Internet-Draft            REST API Media Types            September 2021
 
 
    [oas]      Darrel Miller, ., Jeremy Whitlock, ., Marsh Gardiner, .,
@@ -447,7 +447,7 @@ Change Log
 
 Polli                     Expires 19 March 2022                 [Page 8]
 
-Internet-Draft             REST API mediatypes            September 2021
+Internet-Draft            REST API Media Types            September 2021
 
 
 Author's Address
